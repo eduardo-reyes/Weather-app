@@ -1,4 +1,4 @@
-# Proyecto01 - Modelado y Programación:
+# Proyecto - Modelado y Programación:
 Proyecto hecho en python que dado un archivo csv obtiene la información climática de ciudades
 
 Link al repositorio del proyecto: https://github.com/AsahelMain/Proyecto01
@@ -9,7 +9,7 @@ El diseño de la interfaz está basado en el código de Magno Efren, cuyo github
 
 ![weather-app](./src/images/weather-image.png)
 
-## Alumnos:
+## Autores
      1. Main Cerezo Asahel Said 
      2. Reyes López Eduardo Alfonso 
 
